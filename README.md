@@ -106,3 +106,5 @@ say _hi_ on [Twitter](https://twitter.com/s_streichsbier)
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
+- **[OWASP Agent Memory Guard](https://github.com/OWASP/www-project-agent-memory-guard)** — Runtime defense layer for AI agent memory poisoning (OWASP ASI06). Detects tampered memory entries, prompt injection in memory paths, and secret leakage. YAML-defined policies (block/warn/strip), sub-100μs latency, zero external dependencies. `pip install agent-memory-guard`
+
